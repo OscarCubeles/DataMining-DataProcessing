@@ -6,8 +6,7 @@ This is a university project about data mining and data processing that implemen
 
 The project consists of a Jupyter Notebook that implements K-NN classifiers, PCA, and SVD for analyzing and processing datasets. The notebook is divided into several sections, each of which explores a different aspect of the techniques and their applications. Some of the topics covered in the notebook include:
 
-- Data preprocessing and cleaning.
-- Feature extraction and selection.
+- Data preprocessing.
 - Dimensionality reduction using PCA and SVD.
 - Classification using K-NN classifiers.
 
